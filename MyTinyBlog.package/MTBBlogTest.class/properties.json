@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "MyTinyBlog-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"blog",
+		"post",
+		"first"
+	],
+	"name" : "MTBBlogTest",
+	"type" : "normal"
+}
