@@ -1,3 +1,3 @@
 action
 unpublish
-	self public: true
+	self public: false
