@@ -1,0 +1,3 @@
+action
+isPublic
+	^ self public

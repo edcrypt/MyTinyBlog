@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "EduardoPadoan 11/29/2017 22:59",
+	"super" : "Object",
+	"category" : "MyTinyBlog-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"title",
+		"text",
+		"date",
+		"category",
+		"public"
+	],
+	"name" : "MTBPost",
+	"type" : "normal"
+}
