@@ -1,4 +1,5 @@
 action
 current
-	"Answer with the unique instance"
-	^ uniqueInstance ifNil: [ uniqueInstance := self new ]
+	^ self selectAll 
+		ifNotEmpty: [ :x | x anyOne ]
+		ifEmpty: [ self new save ]

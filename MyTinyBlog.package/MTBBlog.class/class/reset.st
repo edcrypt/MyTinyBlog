@@ -1,3 +1,3 @@
 action
 reset
-	uniqueInstance := nil.
+	self initializeLocalhostMongoDB 

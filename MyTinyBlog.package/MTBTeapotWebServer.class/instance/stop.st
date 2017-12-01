@@ -1,3 +1,3 @@
-html
+start/stop
 stop
 	teapot stop

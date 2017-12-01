@@ -1,3 +1,3 @@
-class initialization
+action
 initialize
 	self reset

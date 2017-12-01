@@ -1,4 +1,4 @@
-html
+start/stop
 start
 	teapot 
 		GET: '/' -> [ self homePage ];

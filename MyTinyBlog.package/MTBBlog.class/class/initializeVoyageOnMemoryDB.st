@@ -1,0 +1,3 @@
+action
+initializeVoyageOnMemoryDB
+	VOMemoryRepository new enableSingleton.
