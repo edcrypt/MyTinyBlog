@@ -1,0 +1,1 @@
+I ́m responsible for displaying a header element on the blog.

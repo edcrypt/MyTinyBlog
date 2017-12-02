@@ -1,13 +1,13 @@
 {
-	"commentStamp" : "EduardoPadoan 12/1/2017 22:21",
+	"commentStamp" : "EduardoPadoan 12/1/2017 22:49",
 	"super" : "WAComponent",
 	"category" : "MyTinyBlog-Components",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"main"
+		"header"
 	],
-	"name" : "MTBApplicationRootComponent",
+	"name" : "MTBScreenComponent",
 	"type" : "normal"
 }
