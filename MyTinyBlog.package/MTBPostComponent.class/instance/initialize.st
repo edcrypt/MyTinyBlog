@@ -1,4 +1,4 @@
 initialization
 initialize
 	super initialize.
-	main := MTBPostsListComponent new.
+	post := MTBPost new

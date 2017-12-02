@@ -1,3 +1,3 @@
 rendering
 renderContentOn: html
-	html header: header
+	html render: header
