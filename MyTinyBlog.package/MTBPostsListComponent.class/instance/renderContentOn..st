@@ -1,6 +1,8 @@
 rendering
 renderContentOn: html
 	super renderContentOn: html.
+	html render: (MTBCategoriesComponent categories: (self blog allCategories) 
+													postsList: self).
 	html tbsContainer: [
-		self blog allPublicBlogPosts do: [ :p |
+		self readSelectedPosts do: [ :p |
 			html render: (MTBPostComponent new post: p) ] ]

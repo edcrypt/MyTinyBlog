@@ -1,13 +1,14 @@
 {
 	"commentStamp" : "",
-	"super" : "MTBScreenComponent",
+	"super" : "WAComponent",
 	"category" : "MyTinyBlog-Components",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"currentCategory"
+		"categories",
+		"postsList"
 	],
-	"name" : "MTBPostsListComponent",
+	"name" : "MTBCategoriesComponent",
 	"type" : "normal"
 }
