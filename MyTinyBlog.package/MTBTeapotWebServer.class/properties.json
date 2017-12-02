@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "EduardoPadoan 11/30/2017 20:56",
 	"super" : "Object",
-	"category" : "MyTinyBlog-Core",
+	"category" : "MyTinyBlog-Teapot",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [

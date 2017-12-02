@@ -1,0 +1,1 @@
+I ́m a blog entry point component.
