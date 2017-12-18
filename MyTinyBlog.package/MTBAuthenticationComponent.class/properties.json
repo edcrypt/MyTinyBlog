@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "WAComponent",
+	"category" : "MyTinyBlog-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"password",
+		"account",
+		"component"
+	],
+	"name" : "MTBAuthenticationComponent",
+	"type" : "normal"
+}

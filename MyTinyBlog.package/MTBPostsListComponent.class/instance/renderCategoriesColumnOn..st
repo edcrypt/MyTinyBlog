@@ -3,4 +3,6 @@ renderCategoriesColumnOn: html
 	self
 		renderColumnOn: html
 		sizes: #(12 2 4)
-		with: [ self basicRenderCategoriesOn: html ]
+		with: [ 
+			self basicRenderCategoriesOn: html.
+			self renderSignInOn: html ]
