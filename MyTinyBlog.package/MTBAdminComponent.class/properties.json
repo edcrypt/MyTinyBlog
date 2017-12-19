@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MTBScreenComponent",
+	"category" : "MyTinyBlog-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MTBAdminComponent",
+	"type" : "normal"
+}

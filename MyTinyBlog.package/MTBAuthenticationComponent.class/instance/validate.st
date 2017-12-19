@@ -1,4 +1,4 @@
 rendering
 validate
 	(self account = 'admin' and: [ self password = 'password' ])
-	ifTrue: [ ... ]
+		ifTrue: [ self component gotoAdministration ]
