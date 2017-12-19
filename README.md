@@ -18,4 +18,5 @@ MTBTeapotWebServer start.
 TODOs:
   * Avoid hardcoded brushes -- use mixins
   * Plug an authentication backend
-  * Specify dependencies 
+  * Specify dependencies
+  * i18n and l10n -- mark strings for translations, format dates
