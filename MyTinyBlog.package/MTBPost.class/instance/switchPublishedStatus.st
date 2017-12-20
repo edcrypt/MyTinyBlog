@@ -1,3 +1,3 @@
-as yet unclassified
+action
 switchPublishedStatus
 	public := public not.

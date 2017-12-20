@@ -1,7 +1,9 @@
 descriptions
 descriptionDate
-	<magriteDescription>
+	<magritteDescription>
 	^ MADateDescription new
+		label: 'Date';
+		priority: 400;
 		accessor: #date;
 		beRequired;
 		yourself

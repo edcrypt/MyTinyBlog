@@ -1,3 +1,4 @@
 action
 publish
-	self public: true
+	self public: true.
+	publishedDate := Date today.
