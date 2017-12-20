@@ -5,7 +5,9 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"blog"
+	],
 	"name" : "MTBPostsReport",
 	"type" : "normal"
 }
