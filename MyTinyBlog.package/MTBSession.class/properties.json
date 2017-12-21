@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "WASession",
+	"category" : "MyTinyBlog-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"logged"
+	],
+	"name" : "MTBSession",
+	"type" : "normal"
+}
